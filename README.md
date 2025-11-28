@@ -5,14 +5,9 @@ This project demonstrates smooth animations, next/previous navigation, and auto-
 
 🚀 Features
 
-📸 Smooth image sliding animation
-
-⏭️ Next / Previous buttons
-
-🔄 Auto-slide functionality
-
-📱 Fully responsive design
-
-🎨 Clean and modern UI
-
-⚡ Lightweight and fast
+* Smooth image sliding animation
+* Next / Previous buttons
+* Auto-slide functionality
+* Fully responsive design
+* Clean and modern UI
+* Lightweight and fast
