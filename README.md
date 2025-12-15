@@ -36,7 +36,6 @@ image-slider/
 ├── index.html # Slider structure
 ├── style.css # Styling and animations
 ├── script.js # Slider functionality
-├── images/ # Image assets
 └── README.md # Project documentation
 ```
 
