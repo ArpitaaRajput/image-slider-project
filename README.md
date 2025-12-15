@@ -33,10 +33,10 @@ This project demonstrates core frontend concepts such as **DOM manipulation, eve
 ```
 image-slider/
 │
-├── index.html # Slider structure
-├── style.css # Styling and animations
-├── script.js # Slider functionality
-└── README.md # Project documentation
+├── index.html 
+├── style.css 
+├── script.js 
+└── README.md
 ```
 
 
