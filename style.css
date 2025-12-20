@@ -74,4 +74,13 @@ body {
     font-size: 1.5rem;
     padding: 8px 10px;
   }
+
+  .slider img {
+    height: 200px; 
+  }
+
+  .auto-btn {
+    font-size: 16px;
+    padding: 8px 12px;
+  }
 }
