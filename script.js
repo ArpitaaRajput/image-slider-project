@@ -60,7 +60,7 @@ nextBtn.addEventListener("click", () => {
   showImage(currentIndex);
 });
 
-// Auto play toggle
+// Handle autoplay start/stop
 autoBtn.addEventListener("click", () => {
   if (!isAutoPlaying) {
     autoSlide = setInterval(() => {
